@@ -13,7 +13,7 @@ function Home() {
           nesciunt enim accusantium nostrum quasi libero aliquid est nulla
           provident.
         </p>
-        <div className="pb-5">
+        <div className="pb-5 text-green-500">
           <Button title="Order now" />
         </div>
       </div>
